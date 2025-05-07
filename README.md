@@ -4,7 +4,7 @@ Kaitlyn Jennewine
 
 ## Overview
 - This repository contains Google Colab Notebooks completed in GEO 441 at Miami University
-- I built this repository as a portfolio of my projects.
+- I built this repository as a portfolio of my assignments for this course.
 
 ## Basic Mapping
 
